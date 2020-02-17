@@ -1,7 +1,7 @@
 import React from 'react';
 import { View } from 'react-native';
 
-export default class Bird extends React.Component {
+export default class Wall extends React.Component {
   render() {
     const width = this.props.size[0];
     const height = this.props.size[1];
